@@ -85,10 +85,8 @@ reads each new review, writes a reply in your voice, and posts it within
 a few hours — so you look professional without lifting a finger. Bad
 reviews get flagged to you directly so you stay in control.
 
-It's £29/month and there's a 14-day free trial with no card required.
-
-If you'd like to see it working before you commit to anything, I'm in
-Formby and happy to pop in and show you — takes about ten minutes.
+It's £29/month and there's a 14-day free trial with no card required — no
+forms, no card, just reply and I'll get you set up.
 
 [your Vercel URL]
 
